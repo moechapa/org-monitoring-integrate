@@ -38,24 +38,24 @@
         <name>CustomObjectTranslation</name>
     </types>
 
-    <!-- Uncomment if you have too many metadatas
+
     <types>
         <members>*</members>
         <name>Dashboard</name>
     </types>
-    -->
+
 
     <types>
         <members>*</members>
         <name>Document</name>
     </types>
 
-    <!-- Uncomment if you have too many metadatas
+
     <types>
         <members>*</members>
         <name>EmailTemplate</name>
     </types>
-    -->
+
 
     <!-- Uncomment if you have too many metadatas
     <types>
@@ -81,12 +81,12 @@
     </types>
     -->
 
-    <!-- Uncomment if you have too many metadatas
+
     <types>
         <members>*</members>
         <name>Report</name>
     </types>
-    -->
+
 
     <!-- Uncomment if you have too many metadatas
     <types>
@@ -101,12 +101,11 @@
       <name>SamlSsoConfig</name>
     </types>
 
-    <!-- Uncomment if you have crashes that seem related to SiteDotCom metadatas
     <types>
         <members>*</members>
         <name>SiteDotCom</name>
     </types>
-    -->
+ 
 
     <!-- Uncomment if you have too many metadatas
     <types>
